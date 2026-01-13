@@ -6,7 +6,7 @@ We welcome researchers and practitioners to contribute to this repository and he
 
 ## Methodology
 
-![SLR Study Selection Process](assets/images/slr-selection-process.jpg)
+![SLR Study Selection Process](assets/images/slr-selection-process.jpeg)
 
 *Figure 1: Study selection process using a two-phase SLR and snowballing.*
 

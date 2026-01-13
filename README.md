@@ -4,7 +4,7 @@ This repository is based on a comprehensive Systematic Literature Review (SLR) o
 
 We welcome researchers and practitioners to contribute to this repository and help advance the collective knowledge in the field of **NLP-driven software debugging**.
 
-## Methodology
+## Our Study Selection Process
 
 ![SLR Study Selection Process](assets/images/slr-selection-process.jpeg)
 

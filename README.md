@@ -10,3 +10,8 @@ We welcome researchers and practitioners to contribute to this repository and he
 
 *Figure 1: Study selection process.*
 
+### Bug Localization Related Studies
+| Paper Title | Venue | Year |
+|------------|-------|------|
+| [A Topic-based Approach for Narrowing the Search Space of Buggy Files from a Bug Report](https://drive.google.com/file/d/1JsnRHi2gIDg31i78q8AV8T_y6u4HG9Vv/view?usp=sharing) | ASE | 2011 |
+

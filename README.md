@@ -43,6 +43,7 @@ We welcome researchers and practitioners to contribute to this repository and he
 |------------|-------|------|
 | [Automatically Translating Bug Reports into Test Cases for Mobile Apps](https://drive.google.com/file/d/1_64x_waJGkxE_fyssmFPw3oIy6HRxvUF/view?usp=sharing) | ISSTA'18 | 2018 |
 | [Assessing the Quality of the Steps to Reproduce in Bug Reports](https://drive.google.com/file/d/10ztIcs8BV8s6Lx0JDF-OJrwiXgWiCYSW/view?usp=sharing) | ESEC/FSE'19 | 2019 |
+| [ReCDroid: Automatically Reproducing Android Application Crashes from Bug Reports](https://drive.google.com/file/d/106jM5vBXiUNuNoBI-Ect1I5EmDb8WNiv/view?usp=sharing) | ICSE'19 | 2019 |
 
 
 
